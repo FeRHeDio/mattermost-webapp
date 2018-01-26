@@ -5587,7 +5587,7 @@ mattermost-redux@mattermost/mattermost-redux:
 
 mattermost-redux@mattermost/mattermost-redux#abc-92-no-emoji:
   version "1.1.0"
-  resolved "https://codeload.github.com/mattermost/mattermost-redux/tar.gz/233dfd0681692b611552db87d12775ffa77b2b64"
+  resolved "https://codeload.github.com/mattermost/mattermost-redux/tar.gz/09ac82a6fb4954af2c7d0c6253434b4b6385aa26"
   dependencies:
     deep-equal "1.0.1"
     form-data "2.3.1"
